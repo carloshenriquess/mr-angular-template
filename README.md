@@ -1,2 +1,2 @@
-# angular-template
+# Angular Template
 Angular template project

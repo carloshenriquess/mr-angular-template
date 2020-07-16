@@ -1,6 +1,7 @@
 {
   "name": "angular-template",
   "version": "0.0.0",
+  "sideEffects": false,
   "scripts": {
     "dev": "ng serve",
     "build": "ng build --prod",
